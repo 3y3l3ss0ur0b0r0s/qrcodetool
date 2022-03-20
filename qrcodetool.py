@@ -1,3 +1,7 @@
+# This was written by Danielle Bertulfo on 03/18/2022.
+    # Email: danielle.bertulfo.coding@gmail.com
+    # GitHub: https://github.com/3y3l3ss0ur0b0r0s
+
 import os
 import qrcode
 from os.path import exists
