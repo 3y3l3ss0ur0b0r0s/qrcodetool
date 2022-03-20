@@ -1,5 +1,5 @@
 # qrcodetool
-QR Code Tool is a basic QR code encoder and decoder that opens in the terminal window.
+QR Code Tool is a basic QR code encoder and decoder that runs in the terminal window.
 
 QR Code Tool was written in Python by Danielle Bertulfo (danielle.bertulfo.coding@gmail.com) on 03/18/2022.
 
