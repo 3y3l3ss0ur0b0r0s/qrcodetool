@@ -1,33 +1,8 @@
-# QR Code Tool is a beginner practice project that will help develop knowledge of:
-    # Installing and using multiple modules
-    # https://www.youtube.com/watch?v=SqvVm3QiQVk&t=3192s
-
-    # img=qrcode.make(data)
-
 import os
 import qrcode
 from os.path import exists
 from pyzbar.pyzbar import decode
 from PIL import Image
-
-# Encoding a QR code
-#data='You\'ve found a hidden Sorb...' # The data to encode into QR code
-
-#qr=qrcode.QRCode(version=1, box_size=6, border=2)
-
-#qr.add_data(data)
-
-#qr.make(fit=True)
-#img=qr.make_image(fill_color='#170813',back_color='#9c5954')
-
-#img.save('C:/Users/danie/Documents/coding/Python/beginner projects/qrcodetool_outputs/generated_qrcode_02.png')
-
-# Decoding a QR Code
-#img=Image.open('C:/Users/danie/Documents/coding/Python/beginner projects/qrcodetool_outputs/generated_qrcode.png')
-
-#result=decode(img)
-
-#print(result)
 
 def use_tool():
     dir=os.path.dirname(__file__)
